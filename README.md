@@ -26,7 +26,8 @@ WATER COOLING CUSTOM :
 > Carte Graphique : 2080ti aorus extreme 
 
 > ssd : 
-> > m.2 nvme 970 Evo Plus 1 To 
+> > m.2 nvme 970 Evo Plus 1 To
+
 > > m.2 nvme Western digital SN850 1To
 
 > boitier : corsair obsidenne 500D SE
