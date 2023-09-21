@@ -5,8 +5,10 @@
 
 # L'ordinateur !
 
-![20230820_230742](https://github.com/Simon42-java/MySETUP/assets/77487529/de0d2727-f5be-4541-bc34-494ccaba9551)
-![20230820_230748](https://github.com/Simon42-java/MySETUP/assets/77487529/a4340702-6e9b-4f33-a376-9a4a7232d848)
+![20230921_203159](https://github.com/Simon42-java/MySETUP/assets/77487529/75a21b1b-207a-4013-88f2-a7493c57cdb5)
+
+![20230921_203210](https://github.com/Simon42-java/MySETUP/assets/77487529/5622c271-d260-4a79-8c0d-df61f2a41a67)
+
 
 Processeur :
 > I9 9900K
