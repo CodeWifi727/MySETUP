@@ -6,45 +6,49 @@
 
 # L'ordinateur !
 
-![20230921_203159](https://github.com/Simon42-java/MySETUP/assets/77487529/75a21b1b-207a-4013-88f2-a7493c57cdb5)
+![20240411_002559](https://github.com/Simon42-java/MySETUP/assets/77487529/d28ebe42-43c6-4f46-85a1-ea755d3d2e4d)
 
-![20230921_203210](https://github.com/Simon42-java/MySETUP/assets/77487529/5622c271-d260-4a79-8c0d-df61f2a41a67)
+![20240411_000332](https://github.com/Simon42-java/MySETUP/assets/77487529/d34f109f-3be6-4c06-8ac4-2825d31b1b87)
 
 
 Processeur :
-> I9 9900K
+> I9 14900K
 
 Carte mere :
-> AORUS Z390 Master
+> NZXT N7 Z790 Black
 
 Memoire RAM :
-> G.SKILL Trident Z royale Silver 4000MHZ
+> Dominator Titanium DDR5 2x32Go 6600MHz C32
 
 WATER COOLING CUSTOM :
 
-> WaterBlock CPU : Corsair Hydro X Series XC7 RGB PRO
-> Pompe : Corsair Hydro X Series, D5
-> Radiateur : Corsair Hydro X Series, XR5 Radiateur de 240 mm
-> Ventillateur : LL120 x 6
+> WaterBlock CPU : EK-Quantum Velocity2 D-RGB - 1700
+> WaterBlock GPU : EK-Quantum Vector2 Trio RTX 4090 D-RGB ABP Set
+> Pompe : EK-Quantum Kinetic TBE 200 D5 PWM D-RGB Plexi
+> Radiateur : EK-Quantum Surface S360 - blanc / EK-Quantum Surface X280M - blanc
+> Ventillateur : 2 x F140 RGB / 4 x F120 RGB
 
-> Carte Graphique : 2080ti aorus extreme 
+> Carte Graphique : MSI - GeForce RTX 4090 Gaming X Trio 24G
 
 > ssd : 
-> > m.2 nvme 970 Evo Plus 1 To
+> > m.2 nvme Western Digital Black SN770 1To
 >
-> > m.2 nvme Western digital SN850 1To
+> > m.2 nvme Western Digital Black SN850X 2 To
 
-> boitier : corsair obsidenne 500D SE
+> boitier : Hyte Y60
 
 
-> Alimentation : 1000w corsair Hx1000 platinium
+> Alimentation : Dark Power Pro 13 1300W
 
 # Ecrans
-![20230820_230730](https://github.com/Simon42-java/MySETUP/assets/77487529/de3f8873-e394-48cc-be33-ff2d2904899d)
+![20240411_000127](https://github.com/Simon42-java/MySETUP/assets/77487529/f3b3292a-fde4-46ab-9161-99573791b13c)
 > Samsung odyssey G9 
 
-![20230820_230736](https://github.com/Simon42-java/MySETUP/assets/77487529/539df06b-8189-4b82-80b3-5e24cb7f7c1c)
+![20240411_000119](https://github.com/Simon42-java/MySETUP/assets/77487529/4711edf9-9d59-4bd5-a474-78768f8b25fb)
 > Écran 27" 2K Asus Rog Swift PG278QR
+
+![20240411_000115](https://github.com/Simon42-java/MySETUP/assets/77487529/3a8e9a95-5994-4466-8337-dab226486144)
+> Écran 16" tabletgraphhique Wacom Cintiq 16
 
 # Clavier
 
@@ -65,48 +69,66 @@ WATER COOLING CUSTOM :
 > 
 > > Keycaps : NovelKeys Key Kobo VoC
 
-# Souris
-![20230820_230506](https://github.com/Simon42-java/MySETUP/assets/77487529/23617a40-16fd-4684-be5a-f83c46cd025a)
+# Clavier Wooting
 
-> LAMZU Atlantis Wireless Superlight Gaming Mouse - White
+![20240411_000046](https://github.com/Simon42-java/MySETUP/assets/77487529/ea964fa8-0de1-418c-b1b2-daee05a6eb68)
+
+>Clavier Custom :
+> > Case : Tofu60 Redux Case Dark blue
+> 
+> > Switches : Wooting Lekker Switch (lubed)
+> 
+> > PCB : Wooting 60HE+ Module
+> 
+> > Stabilisateur : Wooting (Lubbed)
+>
+> > Cable : Wooting Detachable Cable
+> 
+> > Plate : Wooting
+> 
+> > Keycaps : PBTfans Rōnin
+
+# Souris
+
+![20240411_002400](https://github.com/Simon42-java/MySETUP/assets/77487529/5eb4a0ae-7ba3-450b-ade8-7525d2a85156)
+
+> Finalmouse UltralightX
 
 # Tapis de Souris : 
-![20230820_230500](https://github.com/Simon42-java/MySETUP/assets/77487529/769b991d-d46f-4420-9bb6-9612379c2f60)
+![20240411_000101](https://github.com/Simon42-java/MySETUP/assets/77487529/60f8d4ac-3d07-453d-852f-ee0d7f824d8b)
 
 > ARTISAN Mousepad FX Hayate Otsu - XSOFT - XL - Red
-"Flemme de la Photo je la remettrer plus tard "
 
-> X-RAYPAD Aqua Control Plus Mousepad - ROB Strata - XXL
-![20230820_230700](https://github.com/Simon42-java/MySETUP/assets/77487529/eba7b5a0-0869-4275-8693-cae2e6a9cb5a)
-
-> GAMESENSE Aim Lab x Gamesense Mousepad - Asuka - Limited Edition - L
+# Tablette graphique pour Osu: 
+![20240411_000108](https://github.com/Simon42-java/MySETUP/assets/77487529/18f60568-4e84-4709-96d6-7de804dc2e77)
+> Wacom intuos BT S
 
 # Casque :
-![20230820_230600](https://github.com/Simon42-java/MySETUP/assets/77487529/aa41a5d8-1c7f-41ae-8f05-b5a0216b21e2)
+![20240411_000210](https://github.com/Simon42-java/MySETUP/assets/77487529/f6c177f8-7f63-4624-b022-6f80cb2a9cfc)
 
 > BeyerDynamics DT1770
 
 # Pre Amplificateur 
-![20230820_230854](https://github.com/Simon42-java/MySETUP/assets/77487529/73f2b8b6-4d22-4282-900c-73eded575e17)
+![20240411_000135](https://github.com/Simon42-java/MySETUP/assets/77487529/177c8b9e-f40a-455b-a848-66139aab3730)
 
 > TAGA THDA-500T
 
 # Amplificateur 
-![20230820_230901](https://github.com/Simon42-java/MySETUP/assets/77487529/acbe7c47-4044-4e08-9007-bd8885b6397d)
+![20240411_000132](https://github.com/Simon42-java/MySETUP/assets/77487529/a0085bfe-3c41-423f-ad41-1e121183a0e9)
 
 DENON DRA-325R
 
 # Micro
-![20230820_230756](https://github.com/Simon42-java/MySETUP/assets/77487529/38001707-9e71-4808-9e8c-a215861bf812)
+![20240411_000145](https://github.com/Simon42-java/MySETUP/assets/77487529/c6b9c40e-4a20-4a70-adc8-abc9fd7d83c8)
 
 > ASTON ORIGINE
 > Blue Compass
 > Rycote
 
 # Carte son
-![20230820_230826](https://github.com/Simon42-java/MySETUP/assets/77487529/e6bfdbe6-5255-4b14-9fa2-ba3b2774bdd5)
+![20240411_000138](https://github.com/Simon42-java/MySETUP/assets/77487529/2399f648-1c24-4947-83f7-92a04a7e3679)
 
-> Focus right sarlet solo
+> Focus right sarlet solo 3rd
 
 
 
