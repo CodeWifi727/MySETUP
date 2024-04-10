@@ -1,6 +1,7 @@
 # Voici mon SETUP ^^
 
-![20230921_202939](https://github.com/Simon42-java/MySETUP/assets/77487529/b43c2c8f-b31d-4705-bd5b-da3930aa799e)
+![20240411_000039](https://github.com/Simon42-java/MySETUP/assets/77487529/58aa1c8d-a674-4d3e-87c2-53906783f23a)
+
 
 
 # L'ordinateur !
