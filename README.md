@@ -52,25 +52,6 @@ WATER COOLING CUSTOM :
 
 # Clavier
 
-![20230820_230418](https://github.com/Simon42-java/MySETUP/assets/77487529/d6db59f4-e50e-42f4-ace4-bfcbb2087446)
-
->Clavier Custom :
-> > Case : TOFU60 Aluminum Case 60% Dark Purple
-> 
-> > Switches : Gateron INK Pink BOX Linear Switch (lubed)
-> 
-> > PCB : BT60 V2 ANSI Hotswap Wireless
-> 
-> > Stabilisateur : DUROCK Stabilizers V2 Screw Ins Smokey
->
-> > Cable : MAXCUSTOM Aviator Coiled Cable USB-C - Purple
-> 
-> > Plate : KBDFANS Aluminium Plate 60% Purple
-> 
-> > Keycaps : NovelKeys Key Kobo VoC
-
-# Clavier Wooting
-
 ![20240411_000046](https://github.com/Simon42-java/MySETUP/assets/77487529/ea964fa8-0de1-418c-b1b2-daee05a6eb68)
 
 >Clavier Custom :
