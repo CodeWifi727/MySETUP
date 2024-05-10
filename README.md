@@ -1,7 +1,6 @@
 # Voici mon SETUP ^^
 
-![20240411_000039](https://github.com/Simon42-java/MySETUP/assets/77487529/58aa1c8d-a674-4d3e-87c2-53906783f23a)
-
+![20240504_175747](https://github.com/CodeWifi727/MySETUP/assets/77487529/51609396-8c4d-4865-a955-95968b6f8450)
 
 
 # L'ordinateur !
